@@ -9,11 +9,12 @@
 
 #login-box{
   position: relative;
-  margin: 5% auto;
+  margin: 10% auto;
   height: 400px;
   width:600px;
   background: transparent;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+  text-align: center;
 }
 .left-box{
   position: absolute;
@@ -30,6 +31,7 @@ h1{
   font-weight: 300px;
   font-size: 28px;
   color: #e2e2e2;
+  text-align:center;
 }
 input[type="text"], input[type="password"]
 {
