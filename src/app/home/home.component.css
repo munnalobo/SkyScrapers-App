@@ -1,0 +1,7 @@
+::ng-deep body{
+  margin: 0;
+  padding: 0;
+  background-image: url("~src/assets/sky.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;}
